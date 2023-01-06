@@ -40,6 +40,7 @@ ViewData["Title"]="Listado";
                         <td>
                         @item.IdProductos
                         </td>
+
                         <td>
                         @item.Cantidad
                         </td>
@@ -69,7 +70,9 @@ ViewData["Title"]="Listado";
         <script src="//cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
         <script>
             $(document).ready(function () {
-        $('#example').DataTable();
+            $('#example').DataTable({
+                order: [[3, 'desc']],
+            });
     });
 
         </script>

@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\CRUD_Imagen_ASP.NET-CORE-MVC-.NET-6-main\\InventarioFarmacia.csproj",
+      "projectUniqueName": "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj",
       "projectName": "InventarioFarmacia",
-      "projectPath": "C:\\wamp64\\www\\CRUD_Imagen_ASP.NET-CORE-MVC-.NET-6-main\\InventarioFarmacia.csproj",
+      "projectPath": "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj",
       "packagesPath": "C:\\Users\\Ramon Olea\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\CRUD_Imagen_ASP.NET-CORE-MVC-.NET-6-main\\obj\\",
+      "outputPath": "C:\\wamp64\\www\\FarmaciaInventario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramon Olea\\AppData\\Roaming\\NuGet\\NuGet.Config",

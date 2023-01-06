@@ -47,7 +47,32 @@ namespace CRUD_Iventario.Controllers
         public IActionResult Crear()
         {
             //ViewData["IdProductos"] = new SelectList(_contexto.Conexion, "Id", "Id");
-            return View();
+            using (SqlConnection con = new(_contexto.Conexion))
+            {
+                List<Productos> lista_product = new();
+                using (SqlCommand cmd = new("istar_productos", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    con.Open();
+
+                    var rd = cmd.ExecuteReader();
+                    while (rd.Read())
+                    {
+                        lista_product.Add(new Productos
+                        {
+                            Id = (int)rd["id"],
+                            codigo = rd["codigo"].ToString(),
+                            nombre = rd["nombre"].ToString(),
+                            marca = rd["marca"].ToString(),
+                            stock = (int)rd["stock"],
+                            precio = (int)rd["precio"],
+
+                        });
+                    }
+                }
+                ViewBag.listado = lista_product;
+                return View();
+            }
         }
 
         [HttpPost]
@@ -92,8 +117,32 @@ namespace CRUD_Iventario.Controllers
 
         public IActionResult Salida()
         {
-            //ViewData["IdProductos"] = new SelectList(_contexto.Conexion, "Id", "Id");
-            return View();
+            using (SqlConnection con = new(_contexto.Conexion))
+            {
+                List<Productos> lista_product = new();
+                using (SqlCommand cmd = new("istar_productos", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    con.Open();
+
+                    var rd = cmd.ExecuteReader();
+                    while (rd.Read())
+                    {
+                        lista_product.Add(new Productos
+                        {
+                            Id = (int)rd["id"],
+                            codigo = rd["codigo"].ToString(),
+                            nombre = rd["nombre"].ToString(),
+                            marca = rd["marca"].ToString(),
+                            stock = (int)rd["stock"],
+                            precio = (int)rd["precio"],
+
+                        });
+                    }
+                }
+                ViewBag.listado = lista_product;
+                return View();
+            }
         }
 
         [HttpPost]

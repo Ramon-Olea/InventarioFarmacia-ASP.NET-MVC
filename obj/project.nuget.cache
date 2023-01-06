@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6hjOaWBz+cWaGIZ8uJs0rNU0AwBzzw1CDBf7h4igwQjEKfgkpFf9jGj2rc7lGpuC1FeN922HAsu5vTa/wROxpQ==",
+  "dgSpecHash": "eexKFBbuIveST3gsDJgQZyPc8ICOl+T///uPe87yGLS0uIlKNk765+tck+PM0JYezGzHIcqB1PJpeI4/nMD65A==",
   "success": true,
-  "projectFilePath": "C:\\wamp64\\www\\CRUD_Imagen_ASP.NET-CORE-MVC-.NET-6-main\\InventarioFarmacia.csproj",
+  "projectFilePath": "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramon Olea\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Ramon Olea\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

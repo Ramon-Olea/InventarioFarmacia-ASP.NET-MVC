@@ -14,12 +14,16 @@
             <td>
                 <label clas="form-label">Productos:</label>
                 @*<select asp-for="IdProductos" class="form-control" asp-items="@ViewBag.IdProductos"></select>*@
-                <select asp-for="IdProductos" class="form-control">
-                    <option value="3">pruducto a</option>
-                    <option value="4">pruducto b</option>
-                    <option value="5">pruducto c</option>
+                 <select asp-for="IdProductos" class="form-control">
+                            
+                            
+                            @foreach (var item in ViewBag.listado)
+                            {
+                                <option value="@item.Id">@item.nombre (@item.stock)</option>
+                       
+                            }
 
-                </select>
+                        </select>
             </td>
             <td>
             </td>
