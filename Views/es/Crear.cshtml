@@ -1,0 +1,44 @@
+@model ES
+@{
+    ViewData["Title"] = "Crear";
+}
+<a class="btn btn-outline-dark" type="button" asp-controller="Es" asp-action="Index">Volver</a>
+<br />
+<br />
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" method="post" class="container">
+            <h3>Insertar registro</h3>
+            <table class="table">
+                <tr>
+                    <td>
+                        <label clas="form-label">Productos:</label>
+                        @*<select asp-for="IdProductos" class="form-control" asp-items="@ViewBag.IdProductos"></select>*@
+                        <select asp-for="IdProductos" class="form-control">
+                            <option value="3">pruducto a</option>
+                            <option value="4">pruducto b</option>
+                            <option value="5">pruducto c</option>
+
+                        </select>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label clas="form-label">Cantidad</label>
+                        <input required type="number" class="form-control" asp-for="Cantidad" />
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <button type="submit" class="btn btn-outline-success">Insertar</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>  
+<label class="alert-danger">@ViewBag.error</label>
