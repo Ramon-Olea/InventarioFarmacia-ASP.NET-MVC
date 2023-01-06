@@ -1,0 +1,13 @@
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\InventarioFarmacia.exe
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\InventarioFarmacia.dll
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\InventarioFarmacia.deps.json
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\InventarioFarmacia.runtimeconfig.json
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\InventarioFarmacia.pdb
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\FarmaciaInventario\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
