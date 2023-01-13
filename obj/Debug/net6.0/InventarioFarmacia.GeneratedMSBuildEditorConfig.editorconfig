@@ -9,73 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InventarioFarmacia
 build_property.RootNamespace = InventarioFarmacia
-build_property.ProjectDir = C:\wamp64\www\FarmaciaInventario\
+build_property.ProjectDir = C:\wamp64\www\InventarioFarmacia-ASP.NET-MVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\wamp64\www\FarmaciaInventario
+build_property.MSBuildProjectDirectory = C:\wamp64\www\InventarioFarmacia-ASP.NET-MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/es/Crear.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/es/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXNcQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/es/Editar.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/es/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXNcRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/es/Eliminar.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/es/Eliminar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXNcRWxpbWluYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/es/Index.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/es/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/es/Salida.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/es/Salida.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXNcU2FsaWRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/Home/Index.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/Home/Privacy.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/productos/Crear.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/productos/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdG9zXENyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/productos/Editar.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/productos/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdG9zXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/productos/Eliminar.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/productos/Eliminar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdG9zXEVsaW1pbmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/productos/Index.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/Shared/Error.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/_ViewImports.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/_ViewStart.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/wamp64/www/FarmaciaInventario/Views/Shared/_Layout.cshtml]
+[C:/wamp64/www/InventarioFarmacia-ASP.NET-MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8tidvd8ynu

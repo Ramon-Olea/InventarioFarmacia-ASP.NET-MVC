@@ -1,0 +1,3 @@
+PARA CREAR CRUDS RAPIDOS
+
+Scaffold-DbContext "server=FMXLTROLEA01; database=MVCCRUD; integrated security=true;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SQLServer -OutPutDir Models -t usuarios

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj": {}
+    "C:\\wamp64\\www\\InventarioFarmacia-ASP.NET-MVC\\InventarioFarmacia.csproj": {}
   },
   "projects": {
-    "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj": {
+    "C:\\wamp64\\www\\InventarioFarmacia-ASP.NET-MVC\\InventarioFarmacia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj",
+        "projectUniqueName": "C:\\wamp64\\www\\InventarioFarmacia-ASP.NET-MVC\\InventarioFarmacia.csproj",
         "projectName": "InventarioFarmacia",
-        "projectPath": "C:\\wamp64\\www\\FarmaciaInventario\\InventarioFarmacia.csproj",
+        "projectPath": "C:\\wamp64\\www\\InventarioFarmacia-ASP.NET-MVC\\InventarioFarmacia.csproj",
         "packagesPath": "C:\\Users\\Ramon Olea\\.nuget\\packages\\",
-        "outputPath": "C:\\wamp64\\www\\FarmaciaInventario\\obj\\",
+        "outputPath": "C:\\wamp64\\www\\InventarioFarmacia-ASP.NET-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ramon Olea\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
